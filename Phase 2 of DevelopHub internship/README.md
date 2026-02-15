@@ -16,7 +16,7 @@ AI-ML-Internship/
 
 ---
 
-# 🚀 Task 2 – [Project Title Here]
+# 🚀 Task 2 – End-to-End ML Pipeline for Customer Churn Prediction
 
 ## 📖 Objective
 Briefly describe what Task 2 does.
@@ -85,7 +85,7 @@ This project implements multimodal learning by combining CNN-based image feature
 
 ---
 
-# 🤖 Task 5 – [Project Title Here]
+# 🤖 Task 5 – Production ML Deployment with MLOps Pipeline
 
 ## 📖 Objective
 Briefly describe Task 5.
@@ -109,4 +109,5 @@ Briefly describe Task 5.
 
 ```bash
 git clone <your_repo_link>
+
 cd AI-ML-Internship
